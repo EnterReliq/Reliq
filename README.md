@@ -9,7 +9,7 @@ The ReliQ Unified API (v1.0) simplifies connecting to advanced AI services by of
 
 ## Visual Representation on how the ReliQ Unified API (v1.0) works: 
 
-![Untitled design - 2024-12-30T223904 272]()
+![]()
 ---
 
 ## 1. Registering a User
