@@ -168,7 +168,7 @@ queryReliQAPIAdvanced("Generate an advanced analysis on market trends.")
 
 - Twitter: https://x.com/EnterReliq
 - Website:  
-- Docs: 
+- Docs: https://enterreliq.gitbook.io/enterreliq
 
 ---
 
