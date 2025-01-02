@@ -1,5 +1,5 @@
 # ReliQ -- API v1.0
-![]()
+![Banner](https://github.com/user-attachments/assets/2ab99374-92e1-40c8-a361-17625b2b7981)
 
 ---
 
@@ -8,9 +8,9 @@
 The ReliQ Unified API (v1.0) simplifies connecting to advanced AI services by offering a single interface for multiple providers like OpenAI, Gemini, ElevenLabs, and RunwayML. Follow the steps below to integrate it seamlessly into your application.
 
 ## Visual Representation on how the ReliQ Unified API (v1.0) works: 
+![ReliqChart](https://github.com/user-attachments/assets/c7096d33-2ad3-4ec8-9497-785ee5f07479)
 
-![]()
----
+
 
 ## 1. Registering a User
 
